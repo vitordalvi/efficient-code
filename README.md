@@ -4,7 +4,4 @@ Este repositório contém abordagens otimizadas para resolver problemas comuns e
 
 **OBJETIVOS:**
 
-✅ Reduzir a necessidade de loops e condições desnecessárias.
-✅ Melhorar a eficiência do código para maior desempenho.
-✅ Criar soluções fáceis de manter e escaláveis.
-✅ Demonstrar boas práticas para otimização de código.
+✅ Reduzir a necessidade de loops e condições desnecessárias. ✅ Melhorar a eficiência do código para maior desempenho. ✅ Criar soluções fáceis de manter e escaláveis. ✅ Demonstrar boas práticas para otimização de código.
