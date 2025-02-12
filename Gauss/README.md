@@ -8,6 +8,6 @@
 
 A Fórmula de Gauss pode ser aplicada em diversas situações dentro de empresas de software, como:  
 
-Cálculo de totais acumulados sem percorrer listas grandes (exemplo: total de vendas até uma data).  
-Redução de operações custosas em bancos de dados ou APIs.  
-Geração de relatórios financeiros otimizados.  
+- Cálculo de totais acumulados sem percorrer listas grandes (exemplo: total de vendas até uma data).  
+- Redução de operações custosas em bancos de dados ou APIs.  
+- Geração de relatórios financeiros otimizados.  
