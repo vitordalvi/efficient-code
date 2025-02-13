@@ -11,5 +11,6 @@ public static void main(String[] args) {
 
     double totalSales = Gauss.salesUntilDate(days, averageSales);
     System.out.printf("O estimado de vendas até o dia %d é: R$%.2f%n", days, totalSales);
-
+    
+    sc.close();
 }
